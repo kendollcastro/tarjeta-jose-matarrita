@@ -68,7 +68,7 @@ p, a {
 
 .profile__letters {
   margin-left: -320px;
-  margin-top: -300px;
+  margin-top: -20px;
   position: absolute;
   z-index: 1;
 }
@@ -102,6 +102,11 @@ p, a {
   margin-bottom: 8px;
   margin: 0;
   text-transform: uppercase;
+}
+
+.profile-logo {
+  width: 250px;
+  margin-bottom: 20px;
 }
 
 .profile__job {
